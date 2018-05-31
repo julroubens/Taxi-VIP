@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "261211973198",
+    "firebase_url": "https://taxivip-4e065.firebaseio.com",
+    "project_id": "taxivip-4e065",
+    "storage_bucket": "taxivip-4e065.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261211973198:android:e975c482dd16eb7b",
+        "android_client_info": {
+          "package_name": "com.taxi.vip.taxivip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261211973198-dfm9f7mqfue1podareaqcitue4haelul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.taxi.vip.taxivip",
+            "certificate_hash": "28d820fef6650f04905140f88dccedfd736e2411"
+          }
+        },
+        {
+          "client_id": "261211973198-g3qn7p82v5sv465b60d4m6r4bj0aduqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsQ3anps41ibcsK0u8wJtHO0BqEWFEzbc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261211973198-g3qn7p82v5sv465b60d4m6r4bj0aduqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
